@@ -34,3 +34,49 @@ body{
  
 }
 
+.two-banner{
+  text-align: center;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 10%;
+}
+.two-banner h1{
+    font-size: 40px;
+    color: black;
+    margin-bottom: 10px;
+}
+.two-banner P{
+    margin-bottom: 10PX;
+}
+.two-banner-boxes{
+  background-color: rgba(228, 220, 220, 0.621);
+  border-radius: 2px;
+  font-size: 20px;
+  padding: 50px 20px 0px;
+  width: 100px;
+  height: 80px;
+  margin-right: 10px;
+
+}
+.flexi{
+    display: flex;
+}
+.two-banner input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+
+}
+
+.two-banner a{
+    border: 50px 80px;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    margin-top: 20px;
+ 
+}
